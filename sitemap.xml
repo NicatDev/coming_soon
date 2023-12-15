@@ -6,5 +6,9 @@
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
+    <url>
+        <loc>https://caspera.az</loc>
+        <!-- Diğer sayfa bilgileri -->
+    </url>
     <!-- Diğer sayfa URL'leri buraya eklenir -->
 </urlset>
